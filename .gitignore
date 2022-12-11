@@ -7,3 +7,4 @@ set_env.sh
 # Editor-based HTTP Client requests
 /httpRequests/
 config/
+travis.yaml
