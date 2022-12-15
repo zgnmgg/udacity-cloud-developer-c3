@@ -6,7 +6,7 @@ services:
   - docker
 
 install:
-  -echo "Everyting is okey"
+  -echo "Everyting is ok"
 
 script:
   - docker --version
